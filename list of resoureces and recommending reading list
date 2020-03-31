@@ -1,2 +1,2 @@
-["youtube.com", "w3schools.com","geeksforgeeks.org"]
-["Automate the Boring stuff with Python"]
+resoureces = ["youtube.com", "w3schools.com","geeksforgeeks.org"]
+recommend_reading_material = ["Automate the Boring stuff with Python"]
